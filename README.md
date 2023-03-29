@@ -34,6 +34,14 @@ ProductSnapAI can produce high-quality images from textual descriptions, with th
 
 ![image](https://user-images.githubusercontent.com/37101144/228463036-88de373c-60ac-4bfe-8e01-a9b271843a59.png)
 
+**prompt 1** "black hoodie with a front half zipper by martin valen"
+
+**prompt 2** "white hoodie with a blue design by martin valen"
+
+**prompt 3** "stripped hoodie by martin valen"
+
+**prompt 4** "camouflage hoodie by martin valen"
+
 ## 🚀 Getting Started
 
 To use ProductSnapAI, simply use the provided notebooks to fine-tune the model using a small sample dataset of your product images. Run the provided scripts to generate product images from textual descriptions in your brand style. You can checkout our deployed model [here](https://huggingface.co/spaces/Ali-fb/Ali-fb-sd_martin_valen-model-v1-2_400)
