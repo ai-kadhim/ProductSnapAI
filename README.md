@@ -1,4 +1,5 @@
-# 🖼️ ProductSnapAI: Stable Diffusion Model for E-Commerce Products Images
+# 🖼️ ProductSnapAI
+## 💻 Stable Diffusion Model for E-Commerce Products Images
 
 ProductSnapAI is a Stable Diffusion project that allows you to create visual representations of products in your brand style based on textual descriptions. The project is open-source and welcomes contributions from the community.
 
