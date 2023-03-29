@@ -9,6 +9,7 @@ Our curated dataset is based on the images from [Martin Valen](https://martinval
 ![image](https://user-images.githubusercontent.com/37101144/228462176-5d862ead-bebf-432a-8342-7c2208f51df9.png)
 ![image](https://user-images.githubusercontent.com/37101144/228462236-94a4e540-6750-44a1-9d45-cfaffc8ab968.png)
 ![image](https://user-images.githubusercontent.com/37101144/228462262-17695ab8-2af5-44c2-8c45-ec295ccebfb0.png)
+![image](https://user-images.githubusercontent.com/37101144/228462466-33228355-d6a0-4bd8-80f8-1776b243e8e9.png)
 
 
 ## 🤖 Example Model
