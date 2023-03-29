@@ -9,6 +9,20 @@ ProductSnapAI is a Stable Diffusion project that allows you to create visual rep
 | 🏞️ **SD Inference Notebook**  | Run an inference on the standard stable diffusion models as a baseline | [Here](https://colab.research.google.com/drive/10wsWtMyM2lNFyGfck5I5MQmVcAggrlIW?usp=sharing) |
 | 🏋️ **SD Training Notebook**  | Train stable diffusion models on your dataset | [Here](https://colab.research.google.com/drive/1ZVSof0szrYoCO_lPNzP9ctTP_sZrUp1G?usp=sharing)   |
 
+## 🫓 Baseline
+Our baseline was generated utilizing the inference notebook with original stable diffusion v1.2 (shown) and v2.1.
+
+![image](https://user-images.githubusercontent.com/37101144/228467693-b6edcb03-1d76-40ce-b1a4-299802d5ce20.png)
+
+**prompt 1** "black hoodie with a front half zipper by martin valen"
+
+**prompt 2** "white hoodie with a blue design by martin valen"
+
+**prompt 3** "stripped hoodie by martin valen"
+
+**prompt 4** "camouflage hoodie by martin valen"
+
+
 ## 📦 Data
 Our curated dataset is based on the images from [Martin Valen](https://martinvalen.com/en/sweatshirts-hoodies), which includes a variety of sweatshirts and hoodies. The dataset consists of textual descriptions of the brand name. The dataset has been downsized and cleaned to ensure consistency and accuracy. You can checkout the specific 🤗 HuggingFace Dataset [here](https://huggingface.co/datasets/Ali-fb/martin_valen_dataset).
 
